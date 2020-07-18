@@ -26,16 +26,16 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-					<cloudHubDeployment>
-				       <username>elias072020</username>
-				       <environment>Sandbox</environment>
-				       <workers>1</workers>
-				       <workerType>Micro</workerType>
-				       <applicationName>New-git-sample-api</applicationName>
-				       <password>tnxtoG0d</password>
-				       <muleVersion>4.3.0</muleVersion>
-				       <objectStoreV2>true</objectStoreV2>
-				    </cloudHubDeployment>
+				<cloudHubDeployment>
+				<username>elias072020</username>
+				<environment>Sandbox</environment>
+				<workers>1</workers>
+				<workerType>Micro</workerType>
+				<applicationName>New-git-service</applicationName>
+				<password>tnxtoG0d</password>
+				<muleVersion>4.3.0</muleVersion>
+				<objectStoreV2>true</objectStoreV2>
+				</cloudHubDeployment>
 				</configuration>			
 			</plugin>
 		</plugins>
