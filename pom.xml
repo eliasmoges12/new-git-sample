@@ -30,7 +30,7 @@
 				<username>elias072020</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
-				<workerType>micro</workerType>
+				<workerType>Micro</workerType>
 				<applicationName>New-git-sample-api</applicationName>
 				<password>tnxtoG0d</password>
 				<muleVersion>4.3.0</muleVersion>
